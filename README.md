@@ -1,6 +1,6 @@
 # Ninja Browser
 
-<h2>This is an [electron-based](https://electron.atom.io/) minimal browser, updated to use the latest Electron/Chromium builds.</h2>
+This is an [electron-based](https://electron.atom.io/) minimal browser, updated to use the latest Electron/Chromium builds.
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/44912259/67528702-ba656f00-f67f-11e9-92d7-bd1b5e1931a5.png">
