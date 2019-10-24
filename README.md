@@ -19,15 +19,17 @@ Browser Features:
 ## Transparency and Grayscale filter
 
 ![](https://user-images.githubusercontent.com/44912259/67528106-4080b600-f67e-11e9-9530-ee0c03da7eb6.png)
+
 you can enable/disable transparency from the main.js file and grayscale filter from index.html
 
 
 ## Hidden Scrollbars**
 
 ![](https://user-images.githubusercontent.com/44912259/67528147-5a21fd80-f67e-11e9-84e3-7037af2ffadb.png)
+
 you can disable this from index.html
 
-## ** 
+## ****** 
 * You can change the browser window size, transparency and content scale from the app > main.js -> BrowserWindow function
 * Hidden Scrollbars/Grayscale filter will load on **DOM ready** event, expect a delay if the webpage loads slow
 
