@@ -1,0 +1,35 @@
+{
+  "name": "mobile-browser",
+  "productName": "Mobile-Browser",
+  "version": "2.0.0",
+  "description": "Mobile Protrait mode web browser",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "build --dir",
+    "dist": "build"
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "Picture in Picture",
+    "Always on top",
+    "Browser",
+    "Video",
+    "Viewer"
+  ],
+  "author": "Lukas Ehnle (me@ehnle.fyi)",
+  "license": "",
+  "devDependencies": {
+    "electron": "^6.0.11"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "build": {
+    "appId": "fyi.ehnle.sticky-browser",
+    "mac": {
+      "category": "public.app-category.productivity"
+    }
+  }
+}
