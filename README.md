@@ -1,11 +1,11 @@
 # Ninja Browser
 
+<h2>This is an [electron-based](https://electron.atom.io/) minimal browser, updated to use the latest Electron/Chromium builds.</h2>
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/44912259/67528702-ba656f00-f67f-11e9-92d7-bd1b5e1931a5.png">
     <h3>Browse like a Ninja</h3>
 </div>
-
-This is an [electron-based](https://electron.atom.io/) minimal browser, updated to use the latest Electron/Chromium builds.
 
 # Source
 This repo is a fork of Sticky Browser by [@ocjojo](https://github.com/ocjojo)
@@ -29,7 +29,7 @@ you can enable/disable transparency from the main.js file and grayscale filter f
 
 you can disable this from index.html
 
-## ****** 
+## **
 * You can change the browser window size, transparency and content scale from the app > main.js -> BrowserWindow function
 * Hidden Scrollbars/Grayscale filter will load on **DOM ready** event, expect a delay if the webpage loads slow
 
