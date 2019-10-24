@@ -14,7 +14,7 @@ Download original from [release page](https://github.com/ocjojo/sticky-browser/r
 
 ---
 
-Browser Features:
+# Browser Features:
 
 ## Transparency and Grayscale filter
 
@@ -29,7 +29,7 @@ you can enable/disable transparency from the main.js file and grayscale filter f
 
 you can disable this from index.html
 
-## **
+### **
 * You can change the browser window size, transparency and content scale from the app > main.js -> BrowserWindow function
 * Hidden Scrollbars/Grayscale filter will load on **DOM ready** event, expect a delay if the webpage loads slow
 
