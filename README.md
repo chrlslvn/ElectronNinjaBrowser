@@ -5,13 +5,13 @@ This is an [electron-based](https://electron.atom.io/) minimal browser, that can
 Browse like a Ninja
 
 # Source
-This repo is a fork of Sticky Browser by @ocjojo
+This repo is a fork of Sticky Browser by [@ocjojo](https://github.com/ocjojo)
 
 Download original from [release page](https://github.com/ocjojo/sticky-browser/releases).
 
 ---
 
-You can change the browser window size and scale from the app > main.js -> BrowserWindow function
+You can change the browser window size, transparency and content scale from the app > main.js -> BrowserWindow function
 
 Read more about Electron's Browser Window api -> [here](https://electronjs.org/docs/api/browser-window)
 
