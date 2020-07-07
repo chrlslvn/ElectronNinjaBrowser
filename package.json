@@ -21,7 +21,7 @@
   "author": "Lukas Ehnle (me@ehnle.fyi)",
   "license": "",
   "devDependencies": {
-    "electron": "^6.0.11"
+    "electron": "^9.1.0"
   },
   "dependencies": {
     "font-awesome": "^4.7.0"
